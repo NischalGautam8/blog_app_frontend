@@ -1,4 +1,9 @@
-# My App
+# My App 
+use username = nischal | password = qwertyasdf
+<img width="1901" height="909" alt="Screenshot 2025-08-04 200643" src="https://github.com/user-attachments/assets/c571f613-3248-4dd4-90b7-20f37c21b09b" />
+<img width="1896" height="925" alt="Screenshot 2025-08-04 200656" src="https://github.com/user-attachments/assets/cb1f62a0-50ad-490b-b020-90ac87828a96" />
+<img width="1904" height="908" alt="Screenshot 2025-08-04 200718" src="https://github.com/user-attachments/assets/c238ed6d-4bd4-478b-a209-af2a03de1308" />
+<img width="1883" height="886" alt="Screenshot 2025-08-04 200755" src="https://github.com/user-attachments/assets/4195b088-15a2-48da-aa0a-028b5113af50" />
 
 This is a Next.js application, likely a blog or content management system, built with React and various UI components.
 
